@@ -4,7 +4,7 @@
 
 This fix only applies to the game's "MODE 1" display mode, which is the only of the two modes that renders correctly on Marty hardware. As a result, the default display mode has been changed from "MODE 2" to "MODE 1".
 
-⯈ Download Patch: [Taito Chase H.Q. (Marty Color Palette Fix).zip](xxx)
+⯈ Download Patch: [Taito Chase H.Q. (Marty Color Palette Fix).zip](https://github.com/DerekPascarella/TaitoChaseHQ-ColorPatchFMTownsMarty/raw/refs/heads/main/Taito%20Chase%20H.Q.%20(Marty%20Color%20Palette%20Fix).zip)
 
 ## Patching Instructions
 
