@@ -2,7 +2,7 @@
 
 <img align="right" width="155" src="https://github.com/DerekPascarella/TaitoChaseHQ-ColorPatchFMTownsMarty/blob/main/box.png?raw=true">Thanks to some research done by Kitrinx during her development of the FM Towns Marty core for the MiSTer FPGA, insights were gained to make it possible to develop this patch to correct the flickering horizontal lines and discolored bands seen when playing "Taito Chase H.Q." on the FM Towns Marty. The game switches color palettes during each frame, but its original timing causes parts of the picture to appear in the wrong colors on Marty hardware.
 
-This fix only applies to the game's "MODE 1" display mode, which is the only of the two modes that renders correctly on Marty hardware. As a result, the default display mode has been changed from "MODE 2" to "MODE 1".
+This fix only applies to the game's "MODE 1" display mode, which is the only of the two modes that renders correctly on Marty hardware. As a result, the default display mode has been changed from "MODE 2" to "MODE 1". This also means that manually changing to "MODE 2" results in color palette corruption, just like the original unmodified game.
 
 ⯈ Download Patch: [Taito Chase H.Q. (Marty Color Palette Fix).zip](https://github.com/DerekPascarella/TaitoChaseHQ-ColorPatchFMTownsMarty/raw/refs/heads/main/Taito%20Chase%20H.Q.%20(Marty%20Color%20Palette%20Fix).zip)
 
