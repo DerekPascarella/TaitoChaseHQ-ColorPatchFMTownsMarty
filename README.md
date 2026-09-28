@@ -12,7 +12,7 @@ This patch release includes a custom patch-applying kit. It specifically targets
 
 To apply the patches, follow the steps below.
 
-1. Extract the [latest release package ZIP](https://github.com/DerekPascarella/TaitoChaseHQ-ColorPatchFMTownsMarty/raw/refs/heads/main/Taito Chase H.Q. (Marty Color Palette Fix).zip) to any folder of your choosing.
+1. Extract the [latest patch ZIP](https://github.com/DerekPascarella/TaitoChaseHQ-ColorPatchFMTownsMarty/raw/refs/heads/main/Taito%20Chase%20H.Q.%20(Marty%20Color%20Palette%20Fix).zip) to any folder of your choosing.
 2. Place the entire Redump disc image in the `redump_original` folder.
 3. Launch the `apply_patch.bat` script and watch for status messages as it applies the patch.
 4. Upon successful completion, patched disc images will reside in the `patched_disc_image_cue_bin` and `patched_disc_image_ccd_img_sub` folders. These disc images are acceptable for burning to CD-R, using with an ODE, or using with an emulator.
